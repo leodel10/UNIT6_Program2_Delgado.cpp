@@ -1,0 +1,6 @@
+Bubble sort Descending 
+
+time for run 1: 0.016635 seconds
+time for run 2: 0.018953 seconds
+time fro tun 3: 0.020181 seconds
+Average time for bubble sort Descending: 0.018589667 seconds
